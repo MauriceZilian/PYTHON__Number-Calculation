@@ -1,11 +1,11 @@
 # 🧮 Zahlenberechnung / Number Calculation
 
 ## 🌐 Sprache / Language  
-[🇩🇪 Deutsch](#-projektbeschreibung-auf-deutsch) | [🇬🇧 English](#-project-description-in-english)
+[Deutsch](#-projektbeschreibung-auf-deutsch) | [English](#-project-description-in-english)
 
 ---
 
-## 🇩🇪 Projektbeschreibung auf Deutsch
+## Projektbeschreibung auf Deutsch
 
 Dieses Python-Projekt entstand im Rahmen meiner Vorbereitung auf ein duales Studium der Informatik.  
 Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer einfachen Lösung, später mit einer strukturierten, überarbeiteten Version.
@@ -25,7 +25,7 @@ Struktur, Lesbarkeit und saubere Logik.
 
 ---
 
-## 🇬🇧 Project Description in English
+## Project Description in English
 
 This Python project was part of my preparation for a dual study program in Computer Science.  
 It started as an exercise during my first Python lessons – and was later refactored to follow better structure and practices.
