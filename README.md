@@ -1,4 +1,4 @@
-# 💰 Lohnberechnung / Salary Calculation
+# 🧮 Zahlenberechnung / Number Calculation
 
 ## 🌐 Sprache / Language  
 [Deutsch](#-projektbeschreibung-auf-deutsch) | [English](#-project-description-in-english)
@@ -8,36 +8,38 @@
 ## Projektbeschreibung auf Deutsch
 
 Dieses Python-Projekt entstand im Rahmen meiner Vorbereitung auf ein duales Studium der Informatik.  
-Es handelt sich um ein einfaches Programm zur Berechnung des Gehalts inklusive Überstundenvergütung.
+Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer einfachen Lösung, später mit einer strukturierten, überarbeiteten Version.
 
 ### 📁 Versionen
 
-- [`basic/lohnberechnung_basic.py`](basic/lohnberechnung_basic.py)  
-  Ursprüngliche Version aus dem Lernkontext
+- [`basic/zahlenberechnung_basic.py`](basic/zahlenberechnung_basic.py)  
+  Ursprüngliche Version aus dem Python-Kurs
 
-- [`structured/lohnberechnung_structured.py`](structured/lohnberechnung_structured.py)  
-  Überarbeitete Version mit strukturierter Funktion, `main()`-Block und Kommentaren
+- [`structured/zahlenberechnung_structured.py`](structured/zahlenberechnung_structured.py)  
+  Überarbeitete Version mit `main()`-Funktion und besserer Struktur
 
 ### 🎯 Ziel
 
-Praktische Anwendung grundlegender Python-Kenntnisse mit anschließender Verbesserung der Code-Struktur.
+Nicht nur das Lösen der Aufgabe stand im Fokus, sondern die Verbesserung der Codequalität:  
+Struktur, Lesbarkeit und saubere Logik.
 
 ---
 
 ## Project Description in English
 
 This Python project was part of my preparation for a dual study program in Computer Science.  
-It is a simple program to calculate salary including overtime pay.
+It started as an exercise during my first Python lessons – and was later refactored to follow better structure and practices.
 
 ### 📁 Versions
 
-- [`basic/salary_calculation_basic.py`](basic/salary_calculation_basic.py)  
-  Original version from the learning context
+- [`basic/number_calculation_basic.py`](basic/number_calculation_basic.py)  
+  Original version from the Python course
 
-- [`structured/salary_calculation_structured.py`](structured/salary_calculation_structured.py)  
-  Refined version with structured functions, `main()` block, and comments
+- [`structured/number_calculation_structured.py`](structured/number_calculation_structured.py)  
+  Refactored version with a `main()` function and improved code structure
 
 ### 🎯 Objective
 
-Practical application of basic Python skills followed by code structure improvement.
+My goal was not only to solve the problem but to actively improve code quality:  
+Structure, readability, and clean logic.
 
