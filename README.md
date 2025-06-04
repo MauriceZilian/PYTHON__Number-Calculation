@@ -12,10 +12,10 @@ Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer 
 
 ### 📁 Versionen
 
-- [`basic/zahlenberechnung_basic.py`](basic/zahlenberechnung_basic.py)  
+- [`Zahlenberechnung Basis`](basic/zahlenberechnung_basic.py)  
   Ursprüngliche Version aus dem Python-Kurs
 
-- [`structured/zahlenberechnung_structured.py`](structured/zahlenberechnung_structured.py)  
+- [`Zahlenberechnung strukturiert`](structured/zahlenberechnung_structured.py)  
   Überarbeitete Version mit `main()`-Funktion und besserer Struktur
 
 ### 🎯 Ziel
@@ -32,10 +32,10 @@ It started as an exercise during my first Python lessons – and was later refac
 
 ### 📁 Versions
 
-- [`basic/number_calculation_basic.py`](basic/number_calculation_basic.py)  
+- [`Number calculation basic`](basic/number_calculation_basic.py)  
   Original version from the Python course
 
-- [`structured/number_calculation_structured.py`](structured/number_calculation_structured.py)  
+- [`Number calculation structured`](structured/number_calculation_structured.py)  
   Refactored version with a `main()` function and improved code structure
 
 ### 🎯 Objective
