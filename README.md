@@ -12,10 +12,10 @@ Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer 
 
 ### 📁 Versionen
 
-- [`basic/zahlenberechnung_basic_de.py`](basic/zahlenberechnung_basic_de.py)  
+- [`basic/zahlenberechnung_basic.py`](basic/zahlenberechnung_basic.py)  
   Ursprüngliche Version aus dem Python-Kurs
 
-- [`structured/zahlenberechnung_structured_de.py`](structured/zahlenberechnung_structured_de.py)  
+- [`structured/zahlenberechnung_structured.py`](structured/zahlenberechnung_structured.py)  
   Überarbeitete Version mit `main()`-Funktion und besserer Struktur
 
 ### 🎯 Ziel
