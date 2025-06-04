@@ -1,4 +1,4 @@
-# 🧮 Zahlenberechnungsprogramm (Python)
+# 🧮 PYTHON : Zahlenberechnungsprogramm / Number Calculation
 
 ## 🌐 Sprache / Language  
 [Deutsch](#-projektbeschreibung-auf-deutsch) | [English](#-project-description-in-english)
