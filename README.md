@@ -1,44 +1,44 @@
-# 🧮 PYTHON : Zahlenberechnungsprogramm / Number Calculation
+# 🧮 Zahlenberechnung / Number Calculation
 
 ## 🌐 Sprache / Language  
-[Deutsch](#-projektbeschreibung-auf-deutsch) | [English](#-project-description-in-english)
+[🇩🇪 Deutsch](#-projektbeschreibung-auf-deutsch) | [🇬🇧 English](#-project-description-in-english)
 
 ---
 
-## Projektbeschreibung auf Deutsch
+## 🇩🇪 Projektbeschreibung auf Deutsch
 
-Dieses kleine Python-Projekt entstand während meiner ersten Lernschritte mit Python im Kurs **„Python for Everybody“**.
+Dieses Python-Projekt entstand im Rahmen meiner Vorbereitung auf ein duales Studium der Informatik.  
+Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer einfachen Lösung, später mit einer strukturierten, überarbeiteten Version.
 
-Die erste Version zeigt die ursprüngliche Lösung.  
-Anschließend habe ich den Code selbstständig überarbeitet, um Struktur, Lesbarkeit und gute Programmierpraxis zu verbessern.  
-Dabei habe ich z. B. eine `main()`-Funktion eingeführt und die Ein- und Ausgaben übersichtlicher gestaltet.
+### 📁 Versionen
 
-### 🗂 Versionen
+- [`basic/zahlenberechnung_basic_de.py`](basic/zahlenberechnung_basic_de.py)  
+  Ursprüngliche Version aus dem Python-Kurs
 
-- `zahlenberechnung_basic.py` – Ursprüngliche Version aus dem Kurs  
-- `zahlenberechnung_structured.py` – Überarbeitete Version mit besserer Struktur und Python-Standards
+- [`structured/zahlenberechnung_structured_de.py`](structured/zahlenberechnung_structured_de.py)  
+  Überarbeitete Version mit `main()`-Funktion und besserer Struktur
 
 ### 🎯 Ziel
 
-Mein Ziel war es, den Code aktiv zu verbessern – nicht nur eine funktionierende Lösung zu erstellen, sondern auch eine saubere und verständliche.  
-So konnte ich mein technisches Verständnis und meine Programmierfähigkeiten gezielt weiterentwickeln.
+Nicht nur das Lösen der Aufgabe stand im Fokus, sondern die Verbesserung der Codequalität:  
+Struktur, Lesbarkeit und saubere Logik.
 
 ---
 
-## Project Description in English
+## 🇬🇧 Project Description in English
 
-This small Python project was developed during my early learning phase in the **“Python for Everybody”** course.
+This Python project was part of my preparation for a dual study program in Computer Science.  
+It started as an exercise during my first Python lessons – and was later refactored to follow better structure and practices.
 
-The first version shows the original solution.  
-After that, I independently refactored the code to improve structure, readability, and follow good programming practices.  
-For example, I introduced a `main()` function and made the input/output more organized.
+### 📁 Versions
 
-### 🗂 Versions
+- [`basic/zahlenberechnung_basic_en.py`](basic/zahlenberechnung_basic_en.py)  
+  Original version from the Python course
 
-- `zahlenberechnung_basic.py` – Original version from the course  
-- `zahlenberechnung_structured.py` – Refactored version with improved structure and Python conventions
+- [`structured/zahlenberechnung_structured_en.py`](structured/zahlenberechnung_structured_en.py)  
+  Refactored version with a `main()` function and improved code structure
 
 ### 🎯 Objective
 
-My goal was not just to create a working solution but to actively improve the code’s quality and clarity.  
-This helped me strengthen both my technical understanding and programming skills in Python.
+My goal was not only to solve the problem but to actively improve code quality:  
+Structure, readability, and clean logic.
