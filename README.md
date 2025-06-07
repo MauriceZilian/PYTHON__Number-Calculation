@@ -13,7 +13,7 @@ Es diente dem Einstieg in die Programmierung mit Python – zunächst mit einer 
 ### 📁 Versionen
 
 - [`Zahlenberechnung Basis`](basic/zahlenberechnung_basic.py)  
-  Ursprüngliche Version aus dem Python-Kurs
+  Ursprüngliche Version
 
 - [`Zahlenberechnung strukturiert`](structured/zahlenberechnung_structured.py)  
   Überarbeitete Version mit `main()`-Funktion und besserer Struktur
@@ -33,7 +33,7 @@ It started as an exercise during my first Python lessons – and was later refac
 ### 📁 Versions
 
 - [`Number calculation basic`](basic/number_calculation_basic.py)  
-  Original version from the Python course
+  Original version
 
 - [`Number calculation structured`](structured/number_calculation_structured.py)  
   Refactored version with a `main()` function and improved code structure
