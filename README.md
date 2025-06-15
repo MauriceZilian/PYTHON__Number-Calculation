@@ -43,7 +43,7 @@ Now it also includes a newer version, completely revamped according to my learni
 - [`Number calculation structured`](structured/number_calculation_structured.py)  
   Refactored version with a `main()` function and improved code structure
 
-- [`Number calculation advanced`](advanced/number_calculation_advanced.py)
+- [`Number calculation advanced`](advanced/number_calculation_advanced.py)  
   Newest version, completely revamped
 
 ### 🎯 Objective
