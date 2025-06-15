@@ -9,6 +9,7 @@
 
 Dieses Python-Projekt entstand im Rahmen meiner Vorbereitung auf ein duales Studium der Informatik.  
 Es diente dem Einstieg in die Programmierung mit Python. Zunächst mit einer einfachen Lösung, später mit einer strukturierten, überarbeiteten Version.
+Nun enthält es auch noch eine neuere Version, meinem Lernfortschritt entsprechend komplett überarbeitet.
 
 ### 📁 Versionen
 
@@ -17,6 +18,9 @@ Es diente dem Einstieg in die Programmierung mit Python. Zunächst mit einer ein
 
 - [`Zahlenberechnung strukturiert`](structured/zahlenberechnung_structured.py)  
   Überarbeitete Version mit `main()`-Funktion und besserer Struktur
+
+- [`Zahlenberechnung fortgeschritten`](advanced/zahlenberechnung_fortgeschritten.py)
+  Neueste Version, komplett überarbeitet
 
 ### 🎯 Ziel
 
@@ -29,6 +33,7 @@ Struktur, Lesbarkeit und saubere Logik.
 
 This Python project was part of my preparation for a dual study program in Computer Science.  
 It started as an exercise during my first Python lessons and was later refactored to follow better structure and practices.
+Now it also includes a newer version, completely revamped according to my learning progress.
 
 ### 📁 Versions
 
@@ -37,6 +42,8 @@ It started as an exercise during my first Python lessons and was later refactore
 
 - [`Number calculation structured`](structured/number_calculation_structured.py)  
   Refactored version with a `main()` function and improved code structure
+
+-[`Number calculation advanced`](advanced/number_calculation_advanced.py)
 
 ### 🎯 Objective
 
