@@ -17,8 +17,8 @@ while True:
         number = float(line)
 
         # Update total and count
-        total += number
-        count += 1
+        total = total + number
+        count = count + 1
 
         # Determine minimum and maximum
         if minimum is None or number < minimum:
@@ -35,12 +35,8 @@ while True:
 print('Count:', count)
 print('Total:', total)
 
-# Calculate average if at least one number was entered
-if count > 0:
-    average = total / count
-    print('Average:', average)
-else:
-    print('No average to calculate.')
+average = total / count
+print('Average:', average)
 
 print('Minimum:', minimum)
 print('Maximum:', maximum)
