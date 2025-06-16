@@ -7,9 +7,9 @@ def main():
 
     # Eingabeschleife
     while True:
-        eingabe = input("Bitte eine Zahl eingeben (oder 'done' zum Beenden): ")
+        eingabe = input("Bitte eine Zahl eingeben (oder 'fertig' zum Beenden): ")
 
-        if eingabe.lower() == 'done':
+        if eingabe.lower() == 'fertig':
             break
 
         try:
