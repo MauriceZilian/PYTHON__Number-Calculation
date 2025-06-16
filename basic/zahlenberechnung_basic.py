@@ -7,10 +7,10 @@ maximum = None
 # Schleife zur Eingabe von Zahlen
 while True:
         
-        line = input("Bitte eine Zahl eingeben (oder 'done' zum beenden): ")
+        line = input("Bitte eine Zahl eingeben (oder 'fertig' zum beenden): ")
 
         #Abbruchbedingung
-        if line == 'done':
+        if line == 'fertig':
             break
             
         try:
