@@ -36,12 +36,8 @@ while True:
 print('Anzahl:' , anzahl)
 print('Summe:' , summe)
 
-# Durchschnitt nur berechnen, wenn mindestents eine Zahl eingegeben wurde
-if anzahl > 0:
-    durchschnitt = summe / anzahl
-    print('Durchschnitt:' , durchschnitt)
-else:
-    print('Kein Durchschnitt berechenbar.')
+durchschnitt = summe / anzahl
+print('Durchschnitt:' , durchschnitt)
 
 print('Minimum:' , minimum)
 print('Maximum:' , maximum)
