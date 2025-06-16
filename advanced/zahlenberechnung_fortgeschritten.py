@@ -3,12 +3,12 @@ Liste = []
 
 # Begrüßung und Anleitung
 print("Willkommen! Dieses Programm hilft Ihnen dabei, das Maximum, Minimum und den Durchschnitt Ihrer Eingaben zu berechnen.")
-print("Geben Sie eine Zahl ein und drücken Sie Enter. Geben Sie 'done' ein, um das Programm zu beenden.")
+print("Geben Sie eine Zahl ein und drücken Sie Enter. Geben Sie 'fertig' ein, um das Programm zu beenden.")
 
 while True:
     eingabe = input('\nGeben Sie eine Zahl ein: ')
     
-    if eingabe.lower() == 'done':
+    if eingabe.lower() == 'fertig':
         break
         
     try:
